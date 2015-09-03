@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "760097745A19C1DA7C86893D"
+               BlueprintIdentifier = "1A0572705DD725CA894E28FF"
                BuildableName = "CastFrameworkAssets.bundle"
                BlueprintName = "Pods-KALTURAPlayerSDK-google-cast-sdk-CastFrameworkAssets"
                ReferencedContainer = "container:Pods.xcodeproj">

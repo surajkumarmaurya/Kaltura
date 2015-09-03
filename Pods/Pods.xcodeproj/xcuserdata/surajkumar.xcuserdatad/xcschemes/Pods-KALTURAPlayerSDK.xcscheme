@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "82E9864EE4F99361C0CBBDBC"
+               BlueprintIdentifier = "2F611A5165377711EEDE1EFB"
                BuildableName = "libPods-KALTURAPlayerSDK.a"
                BlueprintName = "Pods-KALTURAPlayerSDK"
                ReferencedContainer = "container:Pods.xcodeproj">
