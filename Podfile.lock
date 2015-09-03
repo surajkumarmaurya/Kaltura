@@ -1,0 +1,21 @@
+PODS:
+  - google-cast-sdk (2.7.1):
+    - google-cast-sdk/Assets (= 2.7.1)
+    - google-cast-sdk/Core (= 2.7.1)
+  - google-cast-sdk/Assets (2.7.1):
+    - google-cast-sdk/Core
+  - google-cast-sdk/Core (2.7.1)
+  - Google-Mobile-Ads-SDK (7.4.1)
+  - GoogleAds-IMA-iOS-SDK-For-AdMob (3.0.beta.12):
+    - Google-Mobile-Ads-SDK (~> 7.0)
+
+DEPENDENCIES:
+  - google-cast-sdk
+  - GoogleAds-IMA-iOS-SDK-For-AdMob (= 3.0.beta.12)
+
+SPEC CHECKSUMS:
+  google-cast-sdk: 9c98a8fbe8277277ab01a3318ee965c9aef3d4c9
+  Google-Mobile-Ads-SDK: dce4c2728daa0bcbd88b6e3dc111b718a07b1eb6
+  GoogleAds-IMA-iOS-SDK-For-AdMob: 5aa9e4f5f55c443f8ae2791beb303aab5567d5b2
+
+COCOAPODS: 0.37.2
